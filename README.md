@@ -1,4 +1,3 @@
-![Screenshot 2023-06-29 021321](https://github.com/mohit234567/Customer-Retention/assets/77202377/6bb788ec-e306-4f6a-9281-38f022a1c024)
 # Customer-Retention
 
 During my virtual Power BI internship with Forage in collaboration with PwC, I undertook an exciting project focused on developing a comprehensive Customer Retention Dashboard. This project aimed to leverage the power of Power BI to analyze and visualize customer data, enabling businesses to gain valuable insights and devise strategies to improve customer retention rates.
