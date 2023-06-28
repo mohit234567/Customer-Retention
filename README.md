@@ -12,8 +12,6 @@ Identify Factors Impacting Churn: By utilizing advanced analytics capabilities w
 
 Visualize Data for Insights: The Customer Retention Dashboard utilizes interactive visualizations, including charts, graphs, and heatmaps, to present data in a visually appealing and intuitive manner. This allows users to explore data from different perspectives, identify patterns, and gain actionable insights to drive customer retention efforts.
 
-Segment Customer Groups: The dashboard incorporates segmentation capabilities to analyze customer behavior based on various attributes such as age, location, purchase history, and product preferences. This segmentation empowers businesses to personalize their retention strategies and target specific customer groups with tailored campaigns and initiatives.
-
 Throughout the project, I utilized my technical expertise in Power BI to design and develop a user-friendly and dynamic dashboard. I leveraged data modeling techniques to integrate disparate data sources, implemented data cleansing and transformation processes to ensure data accuracy, and employed data visualization best practices to create compelling and informative visuals.
 
 
