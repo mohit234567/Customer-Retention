@@ -18,7 +18,3 @@ Throughout the project, I utilized my technical expertise in Power BI to design 
 
 
 ![Screenshot 2023-06-29 021321](https://github.com/mohit234567/Customer-Retention/assets/77202377/22d9d129-93c2-4a36-b192-496bb3fc57a2)![Screenshot 2023-06-29 021336](https://github.com/mohit234567/Customer-Retention/assets/77202377/d7038cb3-a5d6-49cb-8b04-9be2968318ae)
-
-
-![Uploading Screenshot 2023-06-29 021321.png…]()
-![Uploading Screenshot 2023-06-29 021336.png…]()
